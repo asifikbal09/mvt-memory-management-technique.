@@ -118,6 +118,4 @@ Total External Fragmentation is 10
 
 ---
 
-## Author
 
-This program is an educational demonstration of the **MVT memory management technique** in operating systems.
